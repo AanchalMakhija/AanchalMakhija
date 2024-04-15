@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?
- page_id=AanchalMakhija/AanchalMakhija"/>
+<img align="right" src="https://visitor-badge.imlete.cn/?id=github.AanchalMakhija.visitor-badge"/>
  
 <h1 align="center">
 <a href="https://git.io/typing-svg">
