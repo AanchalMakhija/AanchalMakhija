@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A"/>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=AanchalMakhija/AanchalMakhija.visitor-badge)"/>
 <h1 align="center">
 <a href="https://git.io/typing-svg">
 <img  src="http://readme-typing-svg.herokuapp.com?font=Sedan&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Aanchal+Makhija+!!"/>
