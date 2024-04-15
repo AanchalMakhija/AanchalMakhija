@@ -4,7 +4,10 @@
 <img  src="http://readme-typing-svg.herokuapp.com?font=Sedan&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Aanchal+Makhija+!!"/>
 </a>
 </h1>
-<h3 align ="center">A Backend Developer </h3>
+<h3 align ="center"> Backend Developer </h3>
+<br/>
+<div align="center">
+
 
 
 
