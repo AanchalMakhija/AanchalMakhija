@@ -1,7 +1,7 @@
 <img align="right" src="?page_id=AanchalMakhija.AanchalMakhija"/>
 <h1 align="center">
 <a href="">
-<img  src="right" src=" ?font = Righteous&size=35&lines=Hi+THere!+👌;+I'm+AAnchal+Makhija!;"/>
+<img  src="right" src=" http://readme-typing-svg.herokuapp.com?font=Sedan&pause=1000&random=false&width=435&lines=Aanchal+Makhija;"/>
 </a>
 </h1>
 
