@@ -6,6 +6,9 @@
 </a>
 </h1>
 <h3 align ="center"> Backend Developer </h3>
+
+- 🌱 I’m currently learning on Aws
+
 <br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
@@ -15,12 +18,7 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 
-<!--
-**AanchalMakhija/AanchalMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning on Aws
-- 📫 How to reach me: aanchal.makhija999@gmail.com
+
 
