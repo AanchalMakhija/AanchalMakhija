@@ -6,9 +6,7 @@
 </a>
 </h1>
 <h3 align ="center"> Backend Developer </h3>
-
-- 🌱 I’m currently learning on Aws
-
+<h4 align="center">🌱 I’m currently learning on Aws</h4>
 <br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
