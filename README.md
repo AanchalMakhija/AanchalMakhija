@@ -7,6 +7,7 @@
 <h3 align ="center"> Backend Developer </h3>
 <br/>
 <div align="center">
+<a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
 
 
 
