@@ -20,6 +20,7 @@
 <h2 align="center">Languages-framework</h2></br>
 <div align="center">
 <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"
 
 
 
