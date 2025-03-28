@@ -1,5 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=AanchalMakhija&label=Profile%20Views&color=0e75b6&style=flat" alt="AanchalMakhija" />
-
+<img align="right" src="https://visitor-badge.imlete.cn/?id=github.AanchalMakhija.visitor-badge"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +10,7 @@
   <table>
     <tr>
       <td align="left" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/README/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
