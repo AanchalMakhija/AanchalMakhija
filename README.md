@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.imlete.cn/?id=github.AanchalMakhija.visitor-badge"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=AanchalMakhija&color=blue&style=flat-square&label=Visitors"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Sedan&center=true&pause=1000&random=false&width=500&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan&center=true&pause=1000&random=false&width=500&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
   </a>
 </h1>
 
@@ -10,8 +10,8 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGES/main/convocation.jpg" 
-             width="200" height="200" style="border-radius: 50%;" />
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" 
+        width="200" height="200" style="border-radius: 50%;" />
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
