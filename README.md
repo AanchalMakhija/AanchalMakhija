@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.imlete.cn/?id=github.AanchalMakhija.visitor-badge"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=AanchalMakhija&label=Profile%20Views&color=0e75b6&style=flat" alt="AanchalMakhija" />
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
