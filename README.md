@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td align="left" width="30%">
-        <img src="https:/AanchalMakhija/IMAGE/main/README/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
+        <img src="https://AanchalMakhija/IMAGE/main/README/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
