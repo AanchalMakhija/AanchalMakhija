@@ -10,10 +10,8 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg" 
-             width="200" 
-             height="200" 
-             style="border-radius: 50%;"/>
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGES/main/convocation.jpg" 
+             width="200" height="200" style="border-radius: 50;" />
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
