@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/assets/main/convocation.jpg" 
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg" 
              width="200" 
              height="200" 
              style="border-radius: 50%;"/>
