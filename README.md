@@ -9,16 +9,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="30%">
-        <img src="https://AanchalMakhija/IMAGE/main/README/profile-pic.jpg" width="200" height="200" style="border-radius:50"/>
+      <td align="center" width="30%">
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg" 
+             width="200" 
+             height="200" 
+             style="border-radius:50%">
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
-        🎯 Passionate Software Engineer <br/>
-        💡 Always Learning <br/>
-        ⚡ Problem Solver <br/>
-        📚 Exploring Cloud Computing (AWS) & Backend Development <br/>
-        🔥 Enthusiastic about DSA, System Design, and Scalable Applications
+        <ul>
+          <li>🎯 Passionate Software Engineer</li>
+          <li>💡 Always Learning</li>
+          <li>⚡ Problem Solver</li>
+          <li>📚 Exploring Cloud Computing (AWS) & Backend Development</li>
+          <li>🔥 Enthusiastic about DSA, System Design, and Scalable Applications</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -28,35 +33,27 @@
 
 <h2 align="center">📬 Connect with Me</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-        <a href="mailto:aanchal.makhija999@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <a href="https://x.com/AanchalMakhija3" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-        </a>
-        <a href="https://medium.com/@aanchal.makhija999" target="_blank">
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:aanchal.makhija999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://x.com/AanchalMakhija3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://medium.com/@aanchal.makhija999" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </div>
 
 ---
 
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 <div align="center">
-  <table><tr><td>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript"/>
-    </a>
-  </td></tr></table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript"/>
+  </a>
 </div>
 
 ---
@@ -73,7 +70,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
       </td>
     </tr>
@@ -84,7 +81,7 @@
 
 <h2 align="center">🔥 Fun Fact</h2>
 <div align="center">
-  <table><tr><td>🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House</td></tr></table>
+  <blockquote>🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House</blockquote>
 </div>
 
 ---
