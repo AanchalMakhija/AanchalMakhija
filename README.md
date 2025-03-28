@@ -9,8 +9,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/your-repo-name/main/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
+      <td align="left" width="30%">
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
+      </td>
+      <td align="left" width="70%">
+        <h2>🚀 About Me</h2>
+        🎯 Passionate Software Engineer <br/>
+        💡 Always Learning <br/>
+        ⚡ Problem Solver <br/>
+        📚 Exploring Cloud Computing (AWS) & Backend Development <br/>
+        🔥 Enthusiastic about DSA, System Design, and Scalable Applications
       </td>
     </tr>
   </table>
@@ -18,15 +26,20 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">📬 Connect with Me</h2>
 <div align="center">
-  <table><tr><td>
-    🎯 Passionate Software Engineer <br/>
-    💡 Always Learning <br/>
-    ⚡ Problem Solver <br/>
-    📚 Exploring Cloud Computing (AWS) & Backend Development <br/>
-    🔥 Enthusiastic about DSA, System Design, and Scalable Applications
-  </td></tr></table>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="mailto:aanchal.makhija999@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -56,24 +69,6 @@
     <tr>
       <td colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">📬 Connect with Me</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-        <a href="mailto:aanchal.makhija999@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
       </td>
     </tr>
   </table>
