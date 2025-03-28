@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+  <img src="/mnt/data/WhatsApp Image 2025-03-29 at 02.07.37_e983f380.jpg" width="250" height="250" style="border-radius:50%">
 </p>
 
 <h3 align="center">🚀 About Me</h3>
