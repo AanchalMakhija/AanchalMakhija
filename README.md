@@ -6,46 +6,38 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AanchalMakhija/your-repo-name/main/profile-pic.jpg" width="250" height="250" style="border-radius:50%">
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AanchalMakhija&show_icons=true&theme=radical&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalMakhija&theme=radical"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/your-repo-name/main/profile-pic.jpg" width="200" height="200" style="border-radius:50%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        🎯 Passionate Software Engineer <br/>
-        💡 Always Learning <br/>
-        ⚡ Problem Solver <br/>
-        📚 Exploring Cloud Computing (AWS) & Backend Development <br/>
-        🔥 Enthusiastic about DSA, System Design, and Scalable Applications
-      </td>
-    </tr>
-  </table>
+  <table><tr><td>
+    🎯 Passionate Software Engineer <br/>
+    💡 Always Learning <br/>
+    ⚡ Problem Solver <br/>
+    📚 Exploring Cloud Computing (AWS) & Backend Development <br/>
+    🔥 Enthusiastic about DSA, System Design, and Scalable Applications
+  </td></tr></table>
 </div>
 
 ---
 
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <table><tr><td>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript"/>
+    </a>
+  </td></tr></table>
 </div>
 
 ---
@@ -55,6 +47,14 @@
   <table>
     <tr>
       <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AanchalMakhija&show_icons=true&theme=radical&count_private=true"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalMakhija&theme=radical"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
       </td>
     </tr>
@@ -83,11 +83,7 @@
 
 <h2 align="center">🔥 Fun Fact</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House</td>
-    </tr>
-  </table>
+  <table><tr><td>🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House</td></tr></table>
 </div>
 
 ---
