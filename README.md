@@ -10,10 +10,10 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="![convocation](https://github.com/user-attachments/assets/1109e681-c7dd-4728-a0da-c88221faa4a8)" 
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/assets/main/convocation.jpg" 
              width="200" 
              height="200" 
-             style="border-radius:50">
+             style="border-radius: 50%;"/>
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
@@ -52,7 +52,7 @@
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript"/>
+    <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript,docker,kubernetes"/>
   </a>
 </div>
 
