@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AanchalMakhija&color=blue&style=flat-square&label=Visitors"/>
 
-<h1 align="center" style="font-size: 40px; color: #00FFFF;">
+<h1 align="center" style="font-size: 40px; color: #00FFFF; font-family: 'Great Vibes', cursive;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=1500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
   </a>
@@ -13,7 +13,7 @@
         <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
       </td>
       <td align="left" width="70%">
-        <h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive;">About Me</h2>
+        <h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">About Me</h2>
         <ul>
           <li>🎯 Passionate Software Engineer</li>
           <li>💡 Always Learning</li>
@@ -29,7 +29,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive;">Tech Stack</h2>
+<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript,docker,kubernetes"/>
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive;">GitHub Stats</h2>
+<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">GitHub Stats</h2>
 
 <div align="center">
   <table>
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive;">GitHub Trophies</h2>
+<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AanchalMakhija&theme=radical&no-frame=true&margin-w=5"/>
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive;">Fun Fact</h2>
+<h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">Fun Fact</h2>
 
 <div align="center">
   <blockquote>
