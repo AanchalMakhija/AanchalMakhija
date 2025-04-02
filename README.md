@@ -13,7 +13,9 @@
         <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
       </td>
       <td align="left" width="70%" style="transition: transform 0.3s; transform-style: preserve-3d;">
-        <h2>🚀 About Me</h2>
+        <h2 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=200&lines=About+Me" alt="About Me"/>
+        </h2>
         <ul>
           <li>🎯 Passionate Software Engineer</li>
           <li>💡 Always Learning</li>
