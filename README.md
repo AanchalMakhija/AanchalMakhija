@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
+        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" class="profile-pic" />
       </td>
       <td align="left" width="70%">
         <h2 align="center" style="font-size: 35px; font-family: 'Dancing Script', cursive; color: #FFA500;">About Me</h2>
@@ -76,3 +76,21 @@
 </div>
 
 <p align="center">⭐️ Created with ❤️ by <strong>Aanchal Makhija</strong></p>
+
+<style>
+  .profile-pic {
+    border-radius: 50%;
+    border: 5px solid transparent;
+    box-shadow: 0 0 10px yellow;
+    animation: glow 1.5s infinite alternate;
+  }
+
+  @keyframes glow {
+    from {
+      box-shadow: 0 0 10px yellow;
+    }
+    to {
+      box-shadow: 0 0 20px yellow;
+    }
+  }
+</style>
