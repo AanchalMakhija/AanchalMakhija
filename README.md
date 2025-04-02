@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan&center=true&pause=1000&random=false&width=500&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
   </a>
 </h1>
 
@@ -14,7 +14,9 @@
       </td>
       <td align="left" width="70%" style="transition: transform 0.3s; transform-style: preserve-3d;">
         <h2 align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=200&lines=About+Me" alt="About Me"/>
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=200&lines=About+Me"/>
+          </a>
         </h2>
         <ul>
           <li>🎯 Passionate Software Engineer</li>
@@ -31,14 +33,24 @@
 
 ---
 
-## 🛠 Tech Stack  
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=Tech+Stack"/>
+  </a>
+</h2>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript,docker,kubernetes"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=GitHub+Stats"/>
+  </a>
+</h2>
+
 <div align="center">
   <table>
     <tr>
@@ -59,14 +71,24 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=GitHub+Trophies"/>
+  </a>
+</h2>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AanchalMakhija&theme=radical&no-frame=true&margin-w=5"/>
 </div>
 
 ---
 
-## 🔥 Fun Fact  
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=Fun+Fact"/>
+  </a>
+</h2>
+
 <div align="center">
   <blockquote>
     🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House
