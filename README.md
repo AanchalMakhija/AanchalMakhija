@@ -12,7 +12,7 @@
       <td align="center" width="30%">
         <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
       </td>
-      <td align="left" width="70%">
+      <td align="left" width="70%" style="transition: transform 0.3s; transform-style: preserve-3d;">
         <h2>🚀 About Me</h2>
         <ul>
           <li>🎯 Passionate Software Engineer</li>
@@ -29,14 +29,14 @@
 
 ---
 
-## 🎨 3D Tech Stack  
+## 🛠 Tech Stack  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript,docker,kubernetes"/>
 </div>
 
 ---
 
-## 🎭 3D GitHub Stats  
+## 📊 GitHub Stats  
 <div align="center">
   <table>
     <tr>
@@ -60,22 +60,6 @@
 ## 🏆 GitHub Trophies  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AanchalMakhija&theme=radical&no-frame=true&margin-w=5"/>
-</div>
-
----
-
-## 🔥 GitHub Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AanchalMakhija&theme=dracula"/>
-</div>
-
----
-
-## 🎭 3D Animated Cards  
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px"/>
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px"/>
 </div>
 
 ---
