@@ -2,40 +2,40 @@
 
 <h1 align="center" style="font-size: 40px; color: #00FFFF;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=1500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=1200&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
   </a>
 </h1>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="30%">
-        <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
-      </td>
-      <td align="left" width="70%" style="transition: transform 0.3s; transform-style: preserve-3d;">
-        <h2 align="center" style="font-size: 35px;">
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=About+Me"/>
-          </a>
-        </h2>
-        <ul>
-          <li>🎯 Passionate Software Engineer</li>
-          <li>💡 Always Learning</li>
-          <li>⚡ Problem Solver</li>
-          <li>📚 Exploring Cloud Computing (AWS) & Backend Development</li>
-          <li>🔥 Enthusiastic about DSA, System Design, and Scalable Applications</li>
-          <li>🏢 Currently working at <b>TCS</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 ---
 
-<h2 align="center" style="font-size: 35px;">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=350&lines=Tech+Stack"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=About+Me"/>
+  </a>
+</h2>
+
+<div align="center">
+  <p align="center" style="transition: transform 0.3s; transform-style: preserve-3d;">
+    <ul>
+      <li>🎯 Passionate Software Engineer</li>
+      <li>💡 Always Learning</li>
+      <li>⚡ Problem Solver</li>
+      <li>📚 Exploring Cloud Computing (AWS) & Backend Development</li>
+      <li>🔥 Enthusiastic about DSA, System Design, and Scalable Applications</li>
+      <li>🏢 Currently working at <b>TCS</b></li>
+    </ul>
+  </p>
+</div>
+
+---
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=Tech+Stack"/>
   </a>
 </h2>
 
@@ -45,35 +45,23 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px;">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=350&lines=GitHub+Stats"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=GitHub+Stats"/>
   </a>
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AanchalMakhija&show_icons=true&theme=radical&count_private=true"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalMakhija&theme=radical"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=AanchalMakhija&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalMakhija&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
 </div>
 
 ---
 
-<h2 align="center" style="font-size: 35px;">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=350&lines=GitHub+Trophies"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=GitHub+Trophies"/>
   </a>
 </h2>
 
@@ -83,9 +71,9 @@
 
 ---
 
-<h2 align="center" style="font-size: 35px;">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=350&lines=Fun+Fact"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=1200&pause=500&color=FFA500&center=true&vCenter=true&width=300&lines=Fun+Fact"/>
   </a>
 </h2>
 
