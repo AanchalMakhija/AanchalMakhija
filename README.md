@@ -1,8 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AanchalMakhija&color=blue&style=flat-square&label=Visitors"/>
 
-<h1 align="center">
+<h1 align="center" style="font-size: 40px; color: #00FFFF;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋🏻;+I'm+Aanchal+Makhija+!!;Software+Engineer;Passionate+About+Technology+%26+Innovation"/>
   </a>
 </h1>
 
@@ -13,9 +13,9 @@
         <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" width="250" height="250" style="border-radius: 50%;" />
       </td>
       <td align="left" width="70%" style="transition: transform 0.3s; transform-style: preserve-3d;">
-        <h2 align="center">
+        <h2 align="center" style="font-size: 35px;">
           <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=200&lines=About+Me"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=300&lines=About+Me"/>
           </a>
         </h2>
         <ul>
@@ -33,9 +33,9 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" style="font-size: 35px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=Tech+Stack"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=350&lines=Tech+Stack"/>
   </a>
 </h2>
 
@@ -45,9 +45,9 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" style="font-size: 35px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=GitHub+Stats"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=350&lines=GitHub+Stats"/>
   </a>
 </h2>
 
@@ -71,9 +71,9 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" style="font-size: 35px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=GitHub+Trophies"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=350&lines=GitHub+Trophies"/>
   </a>
 </h2>
 
@@ -83,9 +83,9 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" style="font-size: 35px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=27&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=250&lines=Fun+Fact"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=350&lines=Fun+Fact"/>
   </a>
 </h2>
 
