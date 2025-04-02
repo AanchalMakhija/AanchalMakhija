@@ -14,17 +14,37 @@
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
-        <ul>
-          <li>🎯 Passionate Software Engineer</li>
-          <li>💡 Always Learning</li>
-          <li>⚡ Problem Solver</li>
-          <li>📚 Exploring Cloud Computing (AWS) & Backend Development</li>
-          <li>🔥 Enthusiastic about DSA, System Design, and Scalable Applications</li>
-        </ul>
+        <div align="left">
+          <ul>
+            <li>🎯 <span class="fade-in">Passionate Software Engineer</span></li>
+            <li>💡 <span class="fade-in">Always Learning</span></li>
+            <li>⚡ <span class="fade-in">Problem Solver</span></li>
+            <li>📚 <span class="fade-in">Exploring Cloud Computing (AWS) & Backend Development</span></li>
+            <li>🔥 <span class="fade-in">Enthusiastic about DSA, System Design, and Scalable Applications</span></li>
+          </ul>
+        </div>
       </td>
     </tr>
   </table>
 </div>
+
+<style>
+  .fade-in {
+    opacity: 0;
+    animation: fadeInUp 2s ease-in-out forwards;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
 
 ---
 
@@ -88,20 +108,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AanchalMakhija&theme=dracula"/>
 </div>
 
----
 
-## 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://github.com/AanchalMakhija/AanchalMakhija/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-## 🔥 Fun Fact  
-<div align="center">
-  <blockquote>
-    🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-  </blockquote>
-</div>
-
-<p align="center">⭐️ Created with ❤️ by <strong>Aanchal Makhija</strong></p>
