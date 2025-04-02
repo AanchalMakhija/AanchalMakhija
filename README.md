@@ -11,11 +11,11 @@
     <tr>
       <td align="center" width="30%">
         <img src="https://raw.githubusercontent.com/AanchalMakhija/IMAGE/main/convocation.jpg?raw=true" 
-        width="250" height="250" style="border-radius: 50%;" />
+        width="250" height="250" class="pulse-image" />
       </td>
       <td align="left" width="70%">
         <h2>🚀 About Me</h2>
-        <ul>
+        <ul class="animated-list">
           <li>🎯 Passionate Software Engineer</li>
           <li>💡 Always Learning</li>
           <li>⚡ Problem Solver</li>
@@ -30,7 +30,7 @@
 ---
 
 <h2 align="center">📬 Connect with Me</h2>
-<div align="center">
+<div align="center" class="hover-icons">
   <a href="https://www.linkedin.com/in/aanchal-makhija-8b9183257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -47,41 +47,58 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Tools</h2>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,python,c,cpp,css,nodejs,express,git,github,postgres,mysql,tailwind,nextjs,typescript,docker,kubernetes"/>
-  </a>
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AanchalMakhija&show_icons=true&theme=radical&count_private=true"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalMakhija&theme=radical"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalMakhija&layout=compact&theme=radical"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2 align="center">🔥 Fun Fact</h2>
-<div align="center">
+<div align="center" class="typing-effect">
   <blockquote>🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House</blockquote>
 </div>
 
+<p align="center">⭐️ Created with ❤️ by <strong>Aanchal Makhija</strong></p>
+
 ---
 
-<p align="center">⭐️ Created with ❤️ by <strong>Aanchal Makhija</strong></p>
+<style>
+/* Typing Animation for Fun Fact */
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: black; }
+}
+
+.typing-effect blockquote {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid;
+  animation: typing 4s steps(40, end), blink-caret 0.5s step-end infinite;
+}
+
+/* Pulse Animation for Profile Image */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.pulse-image {
+  animation: pulse 2s infinite;
+}
+
+/* Hover Animation for Icons */
+.hover-icons img:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
+
+/* Animated List Items */
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.animated-list li {
+  animation: fadeIn 1s ease-in-out;
+}
+</style>
